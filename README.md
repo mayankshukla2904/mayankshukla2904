@@ -1,11 +1,9 @@
-<!-- Copy readme.md AND the assets/ folder into github.com/mayankshukla2904/mayankshukla2904 -->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=740&lines=hey%2C+I'm+Mayank;student+who+ships+AI+%2B+robots" alt="Typing header" />
 </div>
 
 <p align="center">
-  <a href="https://mayankshuklaa.netlify.app"><img src="https://img.shields.io/badge/portfolio-mayankshuklaa.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mayankshuklaa.netlify.app"><img src="https://img.shields.io/badge/portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/mayankshuklaa"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/mayankshukla29"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://medium.com/@mayankshukla2904"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -26,7 +24,7 @@ Right now I ship AI at **[JourneyLabel](https://mayankshuklaa.netlify.app)** (tr
 
 When I'm not doing that: **MIKO** (a personal AI on a Raspberry Pi), hackathons, and running **Geek Room** at college.
 
-→ **[mayankshuklaa.netlify.app](https://mayankshuklaa.netlify.app)**
+→ **[portfolio](https://mayankshuklaa.netlify.app)**
 
 | now | open to | learning | ask me |
 | --- | --- | --- | --- |
