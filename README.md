@@ -14,7 +14,7 @@
 
 <img align="right" src="./assets/meme-cat.gif" width="260" alt="cat coding" />
 
-<img src="./assets/avatar.jpg" width="92" alt="Mayank Shukla" />
+<!-- <img src="./assets/avatar.jpg" width="92" alt="Mayank Shukla" /> -->
 
 ### about
 
