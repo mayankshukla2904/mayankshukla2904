@@ -1,61 +1,59 @@
+<!-- Copy readme.md AND the assets/ folder into github.com/mayankshukla2904/mayankshukla2904 -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mayank+Shukla;AI+%7C+Robotics+%7C+Full-Stack;Building+intelligent+systems" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=740&lines=hey%2C+I'm+Mayank;student+who+ships+AI+%2B+robots" alt="Typing header" />
 </div>
 
-<br />
-
 <p align="center">
-  AI/ML engineer and builder working at the intersection of <b>machine learning</b>, <b>robotics</b>, and <b>software</b>. I like shipping things that think — from models on the cloud to AI on microcontrollers.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mayankshuklaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://medium.com/@mayankshukla2904"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  &nbsp;
-  <a href="https://instagram.com/mayankshukla2904"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://mayankshuklaa.netlify.app"><img src="https://img.shields.io/badge/portfolio-mayankshuklaa.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mayankshuklaa"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mayankshukla29"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@mayankshukla2904"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://instagram.com/mayankshukla2904"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### About
+<img align="right" src="./assets/meme-cat.gif" width="260" alt="cat coding" />
 
-```text
-currently     AI/ML project and SDE prep
-collaborating AI, robotics, IoT, and open source
-learning      Transformers, GANs, and model optimization
-ask me about  AI, robotics, ML, DSA, hackathons, leadership
-fun fact      I run AI on microcontrollers for fun
-```
+<img src="./assets/avatar.jpg" width="92" alt="Mayank Shukla" />
+
+### about
+
+I'm **Mayank**. CS student at MSIT, Delhi. I like building things that have to work outside a Jupyter notebook — products, robots, and models squeezed onto hardware that did not ask for this.
+
+Right now I ship AI at **[JourneyLabel](https://mayankshuklaa.netlify.app)** (travel recs, booking automation). Before that I did LLM reporting on construction sites, realtime commerce backends, and battery / aerospace modeling with **ISRO**.
+
+When I'm not doing that: **MIKO** (a personal AI on a Raspberry Pi), hackathons, and running **Geek Room** at college.
+
+→ **[mayankshuklaa.netlify.app](https://mayankshuklaa.netlify.app)**
+
+| now | open to | learning | ask me |
+| --- | --- | --- | --- |
+| AI, robotics, SDE prep | AI, IoT, open source | Transformers, GANs | ML, DSA, leadership |
+
+<br clear="both" />
 
 ---
 
-### Stack
-
-**Languages**
+### current vibe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,matlab" alt="Languages" />
+  <img src="./assets/meme-fine.gif" width="380" alt="this is fine" />
 </p>
 
-**AI / ML**
+<p align="center"><i>the model after I said "it's only on a Raspberry Pi, how bad can it be"</i></p>
+
+---
+
+### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,matlab,pytorch,tensorflow,opencv,sklearn" alt="languages and ML" />
 </p>
-
-**Backend & Cloud**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,nestjs,nextjs,aws,gcp,mongodb,mysql" alt="Backend and cloud" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nestjs,nextjs,aws,gcp,mongodb,mysql,arduino,linux,git" alt="backend cloud hardware" />
 </p>
-
-**Hardware & Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,linux,git" alt="Hardware and tools" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
@@ -63,29 +61,21 @@ fun fact      I run AI on microcontrollers for fun
 
 ---
 
-### GitHub
+### github
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankshukla2904&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankshukla2904&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Top languages" height="165" />
-</div>
+<p align="center">
+  <img src="./assets/stats.png" alt="GitHub stats" />
+  <img src="./assets/languages.png" alt="Top languages" />
+</p>
 
-<br />
+<p align="center">
+  <img src="./assets/trophies.png" alt="GitHub trophies" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=mayankshukla2904&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankshukla2904&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-  <br /><br />
-  <img src="https://visitcount.itsvg.in/api?id=mayankshukla2904&icon=5&color=12" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="./assets/views.png" alt="Profile views" />
+</p>
