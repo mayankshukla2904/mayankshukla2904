@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="./assets/meme-cat.gif" width="260" alt="cat coding" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="280" alt="coding" />
 
 <!-- <img src="./assets/avatar.jpg" width="92" alt="Mayank Shukla" /> -->
 
@@ -74,6 +74,16 @@ When I'm not doing that: **MIKO** (a personal AI on a Raspberry Pi), hackathons,
   <img src="https://streak-stats.demolab.com/?user=mayankshukla2904&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="./assets/views.png" alt="Profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="220" alt="" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/views.png" alt="Profile views" />
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="220" alt="" />
+    </td>
+  </tr>
+</table>
