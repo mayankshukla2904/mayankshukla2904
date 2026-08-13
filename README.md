@@ -21,7 +21,7 @@
 ### About
 
 ```text
-currently     AI/ML projects, robotics, and SDE prep
+currently     AI/ML project and SDE prep
 collaborating AI, robotics, IoT, and open source
 learning      Transformers, GANs, and model optimization
 ask me about  AI, robotics, ML, DSA, hackathons, leadership
